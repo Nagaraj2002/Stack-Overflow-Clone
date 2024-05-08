@@ -2,52 +2,47 @@
 
 This website is a question forum and made to look like Stack Overflow.
 
-## Technologies used:
-
-- React js
-- Node js
-- Express js
-- MongoDb
-- Redux
-- Json web token and more
-
-## How to use?
-
-Fork and clone the repo and follow the below steps:
-
-- Install Node.js
-- Open client and server directories in VS code
-- Install Dependencies using the command
-
-```
-npm install
-```
-
-- Start App using the command
-
-```
-npm start
-```
-
 ## Pics of the application
 
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.22.18_dfd58777.jpg">
+<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.22.51_07a6a47d.jpg">
+<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.23.42_9259901a.jpg">
+<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.24.05_6117ff93.jpg">
+<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.24.29_771999f1.jpg">
 
 ## Live Link for the website:
 
-[Click here](https://stack-overflow-manoj.netlify.app/)
+[Click here](https://sweet-semolina-72a16f.netlify.app/)
 
-## Contributions
+## ⚙️ Tech Stacks
 
-Contributions are always welcomed. Anyone can contribute to this project. Contributors will be given credits.
+- **Frontend**:
+  - React.js
+  - Redux Toolkit(for State management)
+  - CSS
+  - React Icons Library
+  - React-copy-to-clipboard
+  - react-router-dom (for routing)
 
-## Credits
+- **Backend**:
+  - Node.js
+  - Express.js
+  - MongoDB (for database)
+  - Mongoose (for MongoDB object modeling)
+  - JWT (for token Authorization)
 
-This website uses icons from font awesome.
+## 🛠️ Setup Instructions
 
-## Reminder for Null Class Students
+1. Clone the repository.
+2. Add the `.env` file in the root folder(CONNECTION_URL, PORT, JWT_SECRET) 
+3. Install dependencies using `npm install` in the root folder and the client folder.
+4. Start the frontend and backend servers using `npm run dev`.
+5. Access the application frontend at `http://localhost:3000` and backend API at `http://localhost:5000`.
 
-If you are a Null Class student the repo is updated from the old one. If you need the old repo you can checkout the branch I have created.
+## 🤝 Contributing
 
-Made with ❤️ by [@Manoj](https://twitter.com/Manoj_Athi)
+Just to let you know, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
