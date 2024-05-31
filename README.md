@@ -4,13 +4,12 @@ This website is a question forum and made to look like Stack Overflow.
 
 ## Pics of the application
 
-![Front Page](https://drive.google.com/file/d/1pksdJHHEf20cocyzNKWjk9MSVQeCcIut/view?usp=sharing)
+![First Screenshot](https://drive.google.com/uc?export=view&id=13cxUmbBdKUm7SwtXR0D7e19SArbtdksN)
+![Second Screenshot](https://drive.google.com/uc?export=view&id=1CrNNfWXpj8hVlqeyj8JTBsefDhEQZr1K)
+![Third Screenshot](https://drive.google.com/uc?export=view&id=1wEXM0HGhofzCawVsoUoRN8ZCuOovsHHg)
+![Fourth Screenshot](https://drive.google.com/uc?export=view&id=1H3FsbwRDhozAwymNGMb2ycaRm0Q_X_TO)
+![Fifth Screenshot](https://drive.google.com/uc?export=view&id=1VEsKoa1DvMY044qbMOwWgMQSqMONL8bw)
 
-<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.22.18_dfd58777.jpg">
-<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.22.51_07a6a47d.jpg">
-<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.23.42_9259901a.jpg">
-<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.24.05_6117ff93.jpg">
-<img src="https://github.com/Nagaraj2002/git-dummy/blob/main/WhatsApp%20Image%202024-05-08%20at%2005.24.29_771999f1.jpg">
 
 ## Live Link for the website:
 
